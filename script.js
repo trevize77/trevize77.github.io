@@ -1,8 +1,8 @@
 $(document).ready(function() {
 //  const apiRoot = 'http://localhost:8080/v1/task/';
 //  const trelloApiRoot = 'http://localhost:8080/v1/trello/';
-  const apiRoot = 'https://damp-bayou-82531.herokuapp.com/v1/task/';
-  const trelloApiRoot = 'https://damp-bayou-82531.herokuapp.com/v1/trello/';
+  const apiRoot = 'https://still-earth-80444.herokuapp.com/v1/task/';
+  const trelloApiRoot = 'https://still-earth-80444.herokuapp.com/v1/trello/';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
 
